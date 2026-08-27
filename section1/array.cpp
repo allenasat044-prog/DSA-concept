@@ -26,7 +26,7 @@ int main() {
         cout << x << endl;  //for each loop
     }
 
-    // Fourth way
+    // Fourth way`
     int D[5] = {2, 6, 8, 10};
     for (int i = 0; i < 5; i++) {
         cout << D[i] << endl;
