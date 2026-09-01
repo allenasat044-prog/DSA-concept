@@ -12,15 +12,6 @@ int breadth;
 
 int main(){
 
-    /*
-    //structure code
-    struct Rectangle r1;
-    r1.length=5;
-    r1.breadth=10;
-cout<<r1.length * r1.breadth<<endl;
-
-*/
-
     int *p1;
     char *p2;
     float *p3;
